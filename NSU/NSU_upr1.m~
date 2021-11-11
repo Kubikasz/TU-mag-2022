@@ -25,5 +25,7 @@ plot(t3,x3);grid on
 plot(t4,x4);grid on
 hold off
 
+syms x
+y=-x+3*x^3
 
-
+roots([3 0 -1)
