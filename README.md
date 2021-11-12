@@ -4,7 +4,7 @@ For all TU projects that need source control
 install git lfs
 
 ``` bash
-git install lfs
+sudo apt  install lfs
 ```
 
 install jupyter notebook via pip
